@@ -16,13 +16,16 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 # coincap_app
 
+# Info
 
-# Proje Başlığı
-
-Bu projenin ne yaptığı ve kimin için olduğu hakkında kısa bir açıklama
+An example of an application that lists the most preferred bitcoin types, showing data such as daily, monthly, yearly, with graphs.
 
 
-## Ekran Görüntüleri
+## Screenshots
+
+![Uygulama Ekran Görüntüsü](https://github.com/omergunaydin/flutter_coincap_app/blob/main/assets/coin1.png?raw=true)
+
+![Uygulama Ekran Görüntüsü](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 ![Uygulama Ekran Görüntüsü](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
