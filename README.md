@@ -15,3 +15,15 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # coincap_app
+
+
+# Proje Başlığı
+
+Bu projenin ne yaptığı ve kimin için olduğu hakkında kısa bir açıklama
+
+
+## Ekran Görüntüleri
+
+![Uygulama Ekran Görüntüsü](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+  
